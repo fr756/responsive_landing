@@ -63,6 +63,15 @@
     font-weight: 700;
     letter-spacing: 1px;
 }
+.nav__link{
+    color:#fff;
+    text-decoration: none;
+    margin:0 10px;
+    transition: .2s;
+}
+.nav__link:hover{
+    text-decoration: underline;
+}
 
 .banner header .toggle {
     position: relative;
