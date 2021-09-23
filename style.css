@@ -68,6 +68,7 @@
     text-decoration: none;
     margin:0 10px;
     transition: .2s;
+    font-size:18px;
 }
 .nav__link:hover{
     text-decoration: underline;
